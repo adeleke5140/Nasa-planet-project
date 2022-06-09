@@ -27,6 +27,7 @@ fs.createReadStream("kepler_data.csv")
     }
   })
   .on("error", () => {
+    //error handling
     console.log(err)
   })
   .on("end", () => {
