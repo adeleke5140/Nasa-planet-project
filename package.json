@@ -1,0 +1,11 @@
+{
+  "name": "planet-projects",
+  "version": "1.0.0",
+  "description": "sieving through planets to see which supports life",
+  "main": "index.js",
+  "author": "adeleke5140",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^5.1.0"
+  }
+}
